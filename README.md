@@ -28,8 +28,8 @@ flowchart LR
 ## 1. Live URLs
 
 - **Frontend URL:** `http://localhost:3000` (replace with deployed Vercel / Netlify / Cloudflare Pages URL after deployment)
-- **Backend URL:** `http://localhost:8000` (replace with deployed Render / Railway / Fly.io URL after deployment)
-- **Health Endpoint:** `http://localhost:8000/health`
+- **Backend URL:** https://llm-chatbot-with-key-failover-and.onrender.com
+- **Health Endpoint:** https://llm-chatbot-with-key-failover-and.onrender.com/health
 - **Repository:** https://github.com/JyotiKuma1/LLM-Chatbot-with-Key-Failover-and-Response-Caching
 
 ---
